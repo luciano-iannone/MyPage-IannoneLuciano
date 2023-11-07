@@ -6,7 +6,7 @@ import CartWidget from "../CartWidget/CartWidget";
 const Navbar = () => {
 
     return (
-        <AppBar sx={{ backgroundColor: "#33082E" }}>
+        <AppBar sx={{ backgroundColor: "#FF6700" }}>
             <Toolbar sx={{ display: "flex", justifyContent: "space-around" }}>
                 <NavLink className="navbar-link" to="/">
                     <Typography >

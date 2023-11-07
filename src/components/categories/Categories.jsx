@@ -10,7 +10,7 @@ const Categories = () => {
     if (loading) return <CircularProgress />
 
     return (<div className="container">
-        <Typography variant="h2" sytle={{ color: "#8f8C8C" }}>
+        <Typography variant="h2" sytle={{ color: "#3A6EA5" }}>
             Categories
         </Typography>
         {

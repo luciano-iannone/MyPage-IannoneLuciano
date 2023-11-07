@@ -15,7 +15,6 @@ const ProductInfo = ({ product, open, setOpen }) => {
     }
 
 
-    // Función para manejar la compra
     const handleAddToCart = (count) => {
 
 
@@ -40,11 +39,10 @@ const ProductInfo = ({ product, open, setOpen }) => {
                     <Typography variant="body2" color="textSecondary">
                         {
                             itHasDues && (<>
-                                <PaymentIcon /> Hasta tres cuotas sin interés </>)
+                                <PaymentIcon /> You can pay with your card now! </>)
 
                         }
                     </Typography>
-                    {/**agrego el ITEM COUNT y le paso los valores de stock, el valor inicial que siempre sería uno y por ahora en el on Add hago un clg */}
                     <ItemCount stock={stock} initial={quantityInCart} onAdd={handleAddToCart} />
                 </div>
             </div>

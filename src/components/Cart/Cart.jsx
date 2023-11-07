@@ -22,7 +22,7 @@ const Cart = () => {
                 </Typography>
                 {cart.items.length === 0 ? (
                     <Typography variant="body2" align="center" sx={{ p: 2 }}>
-                        Carrito vacío
+                        Your cart is empty...
                     </Typography>
                 ) : (
                     <TableContainer>

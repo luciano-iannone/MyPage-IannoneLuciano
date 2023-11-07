@@ -4,7 +4,7 @@
         "image": "",
         "title": "Gaming Mouse 1",
         "price": 19.99,
-        "category": "Gaming Mice",
+        "category": "Gaming Mouse",
         "itHasDues": true,
         "isAnOffer": false,
         "stock": 5
@@ -34,7 +34,7 @@
         "image": "",
         "title": "Gaming Mouse 2",
         "price": 49.99,
-        "category": "Gaming Mice",
+        "category": "Gaming Mouse",
         "itHasDues": false,
         "isAnOffer": false,
         "stock": 11
@@ -64,7 +64,7 @@
         "image": "",
         "title": "Gaming Mouse 3",
         "price": 79.99,
-        "category": "Gaming Mice",
+        "category": "Gaming Mouse",
         "itHasDues": true,
         "isAnOffer": true,
         "stock": 50
@@ -94,7 +94,7 @@
         "image": "",
         "title": "Gaming Mouse 4",
         "price": 109.99,
-        "category": "Gaming Mice",
+        "category": "Gaming Mouse",
         "itHasDues": false,
         "isAnOffer": false,
         "stock": 20
@@ -124,7 +124,7 @@
         "image": "",
         "title": "Gaming Mouse 5",
         "price": 139.99,
-        "category": "Gaming Mice",
+        "category": "Gaming Mouse",
         "itHasDues": true,
         "isAnOffer": true,
         "stock": 1

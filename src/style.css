@@ -75,7 +75,7 @@
   justify-content: center;
   width: 400px;
   max-width: 90%;
-  background-color: #fff;
+  background-color: #C0C0C0;
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0px 2px 10px rgba(208, 208, 208, 0.784);
@@ -95,7 +95,7 @@
 
 .modal-content h6 {
   margin-bottom: 10px;
-  color: #2196f3;
+  color: #004E98;
 }
 
 .modal-content p {
@@ -114,28 +114,28 @@
 }
 
 .modal-scroll-content {
-  max-height: 200px; /* Ajusta la altura máxima según tus necesidades */
+  max-height: 200px; 
   overflow-y: auto;
 }
 
 .navbar-link {
-  color: #fff;
+  color: #EBEBEB;
   text-decoration: none;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: lighter;
 }
 
 .active-navbar-link {
-  color: #fff;
+  color: #EBEBEB;
   font-weight: bold;
 }
 
 .cart-container {
   margin: 109px;
   padding: 10px;
-  border: 1px solid #ccc;
+  border: 1px solid #3a3a3a;
   border-radius: 4px;
-  background-color: #f9f9f9;
+  background-color: #3a3a3a;
 }
 
 .cart-container .MuiList-root {
