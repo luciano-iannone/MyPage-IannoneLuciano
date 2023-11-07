@@ -13,7 +13,7 @@ const useAsyncMock = (mock) => {
 
     useEffect(() => {
         newMockPromise.then((res) => { setData(res), setLoading(false) })
-    }, [])
+    }, )
 
     return { data, loading };
 }

@@ -11,7 +11,7 @@ const Categories = () => {
 
     return (<div className="container">
         <Typography variant="h2" sytle={{ color: "#8f8C8C" }}>
-            Categorias
+            Categories
         </Typography>
         {
             data.map((category) => {

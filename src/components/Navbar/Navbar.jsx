@@ -10,12 +10,12 @@ const Navbar = () => {
             <Toolbar sx={{ display: "flex", justifyContent: "space-around" }}>
                 <NavLink className="navbar-link" to="/">
                     <Typography >
-                        Home/Categorías
+                        Home/Categories
                     </Typography>
                 </NavLink>
                 <NavLink className="navbar-link" to="/products">
                     <Typography >
-                        Productos
+                        Products
                     </Typography>
                 </NavLink>
                 <NavLink className="navbar-link" to="/cart">
